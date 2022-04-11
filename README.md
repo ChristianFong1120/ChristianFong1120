@@ -1,4 +1,4 @@
-# Christian Fong: Computer Science, University of Santa Cruz
+# Christian Fong
 
 ## Portfolio Repository For Christian Fong
 
